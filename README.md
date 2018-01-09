@@ -1,5 +1,5 @@
 # Raspberry-pi-Home-security
 
-### Notify homeowner with email.
+### Notify home owner with email.
 
 ### Read reply from home owner and allow stranger to enter the house.
